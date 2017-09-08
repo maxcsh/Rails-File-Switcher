@@ -1,0 +1,7 @@
+[
+  { "keys": ["ctrl+alt+m"], "command": "open_related_rails_model" },
+  { "keys": ["ctrl+alt+c"], "command": "open_related_rails_controller" },
+  { "keys": ["ctrl+alt+v"], "command": "open_related_rails_view" },
+  { "keys": ["ctrl+alt+4"], "command": "open_related_rspec_model" },
+  { "keys": ["ctrl+alt+5"], "command": "open_related_rspec_controller" }
+]

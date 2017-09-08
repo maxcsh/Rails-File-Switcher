@@ -1,0 +1,1 @@
+{"description": "Sublime Text 3 plugin for switching between Models, Controllers and Views", "url": "https://github.com/maxcsh/RailsFileSwitcher", "platforms": ["*"], "version": "2017.09.08.17.38", "sublime_text": ">=3000", "dependencies": []}
